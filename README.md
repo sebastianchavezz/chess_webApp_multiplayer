@@ -4,6 +4,7 @@ a multiplayer chess web app
 ## This is a multiplayer Chess game 
 
 
+<img src="picture/chess_game.png">
 [Game](/picture/chess_game.png)
 
 ## Usage
